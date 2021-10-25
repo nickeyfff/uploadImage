@@ -34,9 +34,9 @@ typero的配置中.  修改成如下的方式. 然后在命令中填好命令的
 
 
 
-![image-20210621161944315](http://qv18g8zxp.hb-bkt.clouddn.com/upload_1624263591525.png)
+![image-20210621161944315](upload_1624263591525.png)
 
 点击“验证图片上传选项” 按钮.  出现如下信息,便成功了:
 
-![image-20210621162228566](http://qv18g8zxp.hb-bkt.clouddn.com/upload_1624263753081.png)
+![image-20210621162228566](upload_1624263753081.png)
 
